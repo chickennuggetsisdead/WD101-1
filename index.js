@@ -78,6 +78,5 @@ const saveUserForm = (event) => {
     displayEntries();
 };
 
-
 userForm.addEventListener('submit', saveUserForm);
 displayEntries();
